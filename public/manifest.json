@@ -1,0 +1,16 @@
+{
+  "name": "Sketch Match",
+  "short_name": "SketchMatch",
+  "description": "A modern collaborative drawing and sketching application with real-time multi-user support",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
